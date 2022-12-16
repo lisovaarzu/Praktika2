@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\PeremennieConsoleApp\obj\Debug\PeremennieConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\PeremennieConsoleApp\obj\Debug\PeremennieConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\PeremennieConsoleApp\obj\Debug\PeremennieConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\PeremennieConsoleApp\bin\Debug\PeremennieConsoleApp.exe.config
+C:\Users\Админ\source\repos\PeremennieConsoleApp\bin\Debug\PeremennieConsoleApp.exe
+C:\Users\Админ\source\repos\PeremennieConsoleApp\bin\Debug\PeremennieConsoleApp.pdb
+C:\Users\Админ\source\repos\PeremennieConsoleApp\obj\Debug\PeremennieConsoleApp.exe
+C:\Users\Админ\source\repos\PeremennieConsoleApp\obj\Debug\PeremennieConsoleApp.pdb
