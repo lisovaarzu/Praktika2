@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\bin\Debug\KolVoBallovConsoleApp.exe.config
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\bin\Debug\KolVoBallovConsoleApp.exe
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\bin\Debug\KolVoBallovConsoleApp.pdb
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\obj\Debug\KolVoBallovConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\obj\Debug\KolVoBallovConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\obj\Debug\KolVoBallovConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\obj\Debug\KolVoBallovConsoleApp.exe
+C:\Users\Админ\source\repos\KolVoBallovConsoleApp\obj\Debug\KolVoBallovConsoleApp.pdb
